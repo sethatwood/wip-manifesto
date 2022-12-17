@@ -67,6 +67,11 @@ All contents herein are written with the aid of [ChatGPT](https://openai.com/blo
 18. [Beware the sunk cost fallacy](Beware-the-sunk-cost-fallacy.md)
     - [The dangers of continuing to work on a project or feature due to previous time and effort invested](Beware-the-sunk-cost-fallacy.md#the-dangers-of-continuing-to-work-on-a-project-or-feature-due-to-previous-time-and-effort-invested)
     - [The importance of evaluating the costs and benefits of continuing versus starting fresh](Beware-the-sunk-cost-fallacy.md#the-importance-of-evaluating-the-costs-and-benefits-of-continuing-versus-starting-fresh)
+19. [Code is never finished](Code-is-never-finished.md)
+    - [The importance of continuous improvement](Code-is-never-finished.md#the-importance-of-continuous-improvement)
+    - [The dangers of complacency](Code-is-never-finished.md#the-dangers-of-complacency)
+    - [The benefits of a growth mindset](Code-is-never-finished.md#the-benefits-of-a-growth-mindset)
+---
 19. [It takes as long as it takes](It-takes-as-long-as-it-takes.md)
     - [The importance of taking the time to do things correctly and thoroughly](It-takes-as-long-as-it-takes.md#the-importance-of-taking-the-time-to-do-things-correctly-and-thoroughly)
     - [The dangers of rushing or cutting corners](It-takes-as-long-as-it-takes.md#the-dangers-of-rushing-or-cutting-corners)
