@@ -1,3 +1,5 @@
+[Table of Contents](README.md#table-of-Contents)
+
 # Chapter 1: Introduction
 ## Overview of software engineering philosophy
 - Definition of software engineering
@@ -8,3 +10,5 @@
 - The long-term impact of code quality on a project
 - The benefits of maintainable code
 - The importance of code review and documentation
+
+[Next: Code is a liability, not an asset](Code-is-a-liability.md)
