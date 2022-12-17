@@ -9,3 +9,7 @@
 - The importance of having other people review your code
 - The benefits of receiving feedback and suggestions from others
 - Best practices for conducting peer reviews
+
+[Next: Double-check things. Twice.](Double-check-things.md)
+
+[Previous: Code is a liability, not an asset](Code-is-a-liability.md)
