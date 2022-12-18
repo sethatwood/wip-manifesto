@@ -71,7 +71,6 @@ All contents herein are written with the aid of [ChatGPT](https://openai.com/blo
     - [The importance of continuous improvement](Code-is-never-finished.md#the-importance-of-continuous-improvement)
     - [The dangers of complacency](Code-is-never-finished.md#the-dangers-of-complacency)
     - [The benefits of a growth mindset](Code-is-never-finished.md#the-benefits-of-a-growth-mindset)
----
 20. [It takes as long as it takes](It-takes-as-long-as-it-takes.md)
     - [The importance of taking the time to do things correctly and thoroughly](It-takes-as-long-as-it-takes.md#the-importance-of-taking-the-time-to-do-things-correctly-and-thoroughly)
     - [The dangers of rushing or cutting corners](It-takes-as-long-as-it-takes.md#the-dangers-of-rushing-or-cutting-corners)
