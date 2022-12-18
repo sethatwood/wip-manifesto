@@ -80,6 +80,11 @@ All contents herein are written with the aid of [ChatGPT](https://openai.com/blo
 22. [First Problem != Real Problem](First-Problem-not-Real-Problem.md)
     - [The importance of accurately identifying and addressing the root cause of a problem](First-Problem-not-Real-Problem.md#the-importance-of-accurately-identifying-and-addressing-the-root-cause-of-a-problem)
     - [The dangers of solving the wrong problem or treating symptoms rather than causes](First-Problem-not-Real-Problem.md#the-dangers-of-solving-the-wrong-problem-or-treating-symptoms-rather-than-causes)
+23. [Don't make the same mistake twice](Dont-make-the-same-mistake.md)
+    - [The importance of learning from mistakes](Dont-make-the-same-mistake.md#the-importance-of-learning-from-mistakes)
+    - [The benefits of documenting and sharing knowledge](Dont-make-the-same-mistake.md#the-benefits-of-documenting-and-sharing-knowledge)
+    - [The benefits of continuous improvement and learning](Dont-make-the-same-mistake.md#the-benefits-of-continuous-improvement-and-learning)
+---
 23. [DX+ = UX+](DX-equals-UX.md)
     - [The importance of considering the development experience (DX) and user experience (UX) of code and solutions](DX-equals-UX.md#the-importance-of-considering-the-development-experience-dx-and-user-experience-ux-of-code-and-solutions)
     - [The benefits of optimizing for both DX and UX](DX-equals-UX.md#the-benefits-of-optimizing-for-both-dx-and-ux)
