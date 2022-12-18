@@ -2,13 +2,18 @@
 
 # Chapter 19: Code is never finished
 ## The importance of continuous improvement
-- The never-ending nature of software development
-- The benefits of regularly revisiting and improving upon existing code
+- The concept of continuous improvement in software development
+- The benefits of regularly reviewing and improving code
+- The importance of keeping up with new technologies and best practices
 
 ## The dangers of complacency
-- The consequences of not keeping up with industry standards and best practices
-- The importance of staying current and relevant in the field
+- The consequences of falling behind in the field
+- The importance of avoiding complacency and maintaining a growth mindset
 
 ## The benefits of a growth mindset
-- The importance of a willingness to learn and adapt
-- The benefits of an open and curious approach to software development
+- The benefits of a growth mindset in software development
+- The importance of continuously learning and improving
+
+[Next: It takes as long as it takes](It-takes-as-long-as-it-takes.md)
+
+[Previous: Beware the sunk cost fallacy](Beware-the-sunk-cost-fallacy.md)
