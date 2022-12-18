@@ -84,6 +84,10 @@ All contents herein are written with the aid of [ChatGPT](https://openai.com/blo
     - [The importance of learning from mistakes](Dont-make-the-same-mistake.md#the-importance-of-learning-from-mistakes)
     - [The benefits of documenting and sharing knowledge](Dont-make-the-same-mistake.md#the-benefits-of-documenting-and-sharing-knowledge)
     - [The benefits of continuous improvement and learning](Dont-make-the-same-mistake.md#the-benefits-of-continuous-improvement-and-learning)
+24. [Make change your friend](Make-change-your-friend.md)
+    - [The importance of adaptability in software development](Make-change-your-friend.md#the-importance-of-adaptability-in-software-development)
+    - [The benefits of embracing change](Make-change-your-friend.md#the-benefits-of-embracing-change)
+    - [The dangers of resistance to change](Make-change-your-friend.md#the-dangers-of-resistance-to-change)
 ---
 23. [DX+ = UX+](DX-equals-UX.md)
     - [The importance of considering the development experience (DX) and user experience (UX) of code and solutions](DX-equals-UX.md#the-importance-of-considering-the-development-experience-dx-and-user-experience-ux-of-code-and-solutions)
